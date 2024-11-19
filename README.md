@@ -1,4 +1,4 @@
-# Responsive Animated and Colourful Portfolio
+# Ayaz Personal-Portfolio
  
 <figure>
   <figcaption>Website View (on desktop screen)</figcaption>
